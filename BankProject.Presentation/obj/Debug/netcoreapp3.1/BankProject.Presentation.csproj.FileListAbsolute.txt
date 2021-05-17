@@ -1,0 +1,13 @@
+C:\Users\Nicolas\source\repos\BankProject\BankProject.Presentation\bin\Debug\netcoreapp3.1\BankProject.Presentation.exe
+C:\Users\Nicolas\source\repos\BankProject\BankProject.Presentation\bin\Debug\netcoreapp3.1\BankProject.Presentation.deps.json
+C:\Users\Nicolas\source\repos\BankProject\BankProject.Presentation\bin\Debug\netcoreapp3.1\BankProject.Presentation.runtimeconfig.json
+C:\Users\Nicolas\source\repos\BankProject\BankProject.Presentation\bin\Debug\netcoreapp3.1\BankProject.Presentation.runtimeconfig.dev.json
+C:\Users\Nicolas\source\repos\BankProject\BankProject.Presentation\bin\Debug\netcoreapp3.1\BankProject.Presentation.dll
+C:\Users\Nicolas\source\repos\BankProject\BankProject.Presentation\bin\Debug\netcoreapp3.1\BankProject.Presentation.pdb
+C:\Users\Nicolas\source\repos\BankProject\BankProject.Presentation\obj\Debug\netcoreapp3.1\BankProject.Presentation.csprojAssemblyReference.cache
+C:\Users\Nicolas\source\repos\BankProject\BankProject.Presentation\obj\Debug\netcoreapp3.1\BankProject.Presentation.AssemblyInfoInputs.cache
+C:\Users\Nicolas\source\repos\BankProject\BankProject.Presentation\obj\Debug\netcoreapp3.1\BankProject.Presentation.AssemblyInfo.cs
+C:\Users\Nicolas\source\repos\BankProject\BankProject.Presentation\obj\Debug\netcoreapp3.1\BankProject.Presentation.csproj.CoreCompileInputs.cache
+C:\Users\Nicolas\source\repos\BankProject\BankProject.Presentation\obj\Debug\netcoreapp3.1\BankProject.Presentation.dll
+C:\Users\Nicolas\source\repos\BankProject\BankProject.Presentation\obj\Debug\netcoreapp3.1\BankProject.Presentation.pdb
+C:\Users\Nicolas\source\repos\BankProject\BankProject.Presentation\obj\Debug\netcoreapp3.1\BankProject.Presentation.genruntimeconfig.cache
